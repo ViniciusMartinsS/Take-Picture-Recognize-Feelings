@@ -9,7 +9,10 @@
   "author": "Vinicius Martins",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.348.0",
+    "azure-storage": "^2.10.2",
     "node-webcam": "^0.4.5",
+    "path": "^0.12.7",
     "request": "^2.88.0",
     "util": "^0.11.0"
   }
